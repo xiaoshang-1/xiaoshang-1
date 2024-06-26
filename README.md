@@ -55,7 +55,7 @@
   &emsp;
   
   <br><br>
-  <strong>Check out my work below!</strong>
+  <strong></strong>
   <br><br>
     <img src="https://img.shields.io/badge/java-1.8-blcak">
     <img src="https://img.shields.io/badge/mysql-8.0-blcak">
