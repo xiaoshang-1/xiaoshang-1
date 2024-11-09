@@ -12,7 +12,7 @@
 
 这里是 xiaoshang-1，一个喜欢小说、动漫的男生，热爱编程，总之很高兴认识你！多多指教！
 
-I am hanbings, a cat exploring the world of computer science.
+I am xiaoshang-1, a boy who likes novels and anime, loves programming, and in short, it's nice to meet you! Lots of advice!
 
 ### 技术栈
 **Java / Vue / Python**
